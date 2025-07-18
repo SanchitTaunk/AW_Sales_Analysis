@@ -22,6 +22,8 @@ The dashboard was built using the following tools and technologies:<br>
 - **Territory Lookup**: Geographical data related to where sales and returns occured.
 - **Calendar Lookup**: Date dimension for temporal analysis.
 
+<img src="Images/Data_model.jpeg" width="1000" alt="table">
+
 
 ## Insights Summary
 #### In order to evaluate commercial performance for AdventureWorks’ global cycling business, we focused on the following key metrics:
@@ -68,6 +70,16 @@ The dashboard was built using the following tools and technologies:<br>
 
 ## Dashboard
 
+#### Exceutive Dashboard
+<img src="Images/executive_dashboard.jpeg" width="1000" alt="dashboard">
 
+#### Geographical Distribution
+<img src="Images/Map.jpeg" width="1000" alt="dashboard">
+
+#### Product Detail
+<img src="Images/product_detail.jpeg" width="1000" alt="dashboard">
+
+#### Customer Detail
+<img src="Images/customer_detail.jpeg" width="1000" alt="dashboard">
 
 
